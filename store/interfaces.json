@@ -1,0 +1,6 @@
+{
+  "hideblock": {
+    "component": "HideBlock",
+    "composition": "children"
+  }
+}
